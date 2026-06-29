@@ -63,7 +63,7 @@ The EC2 instance successfully hosted a custom web page accessible through its pu
 ![Apache Running](Screenshots/IMG_20260628_210307.jpg)
 
 ### 5. Default Apache Page
-![Default Apache Page](Screenshots/CORRECT_FILENAME.jpg)
+![Default Apache Page](Screenshots/IMG_20260628_210325.jpg)
 
 ### 6. Custom Web Page
-![Custom Web Page](Screenshots/CORRECT_FILENAME.jpg)
+![Custom Web Page](Screenshots/IMG_20260628_210327.jpg)
