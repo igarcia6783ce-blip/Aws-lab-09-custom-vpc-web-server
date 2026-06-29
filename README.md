@@ -48,6 +48,24 @@ The EC2 instance successfully hosted a custom web page accessible through its pu
 
 ---
 
-## Screenshots
+##  Screenshots
 
-Screenshots of the entire deployment process are available in the **Screenshots** folder.
+### 1. EC2 SSH Connection
+![EC2 SSH](Screenshots/IMG_20260628_210245.jpg)
+
+### 2. SSH Login
+![SSH Login](Screenshots/IMG_20260628_210252.jpg)
+
+### 3. Apache Installation
+![Apache Install](Screenshots/IMG_20260628_210258.jpg)
+
+### 4. Apache Running
+![Apache Running](Screenshots/IMG_20260628_210307.jpg)
+
+### 5. Default Apache Page
+![Default Apache Page](Screenshots/IMG_20260628_210325.jpg)
+
+### 6. Custom Web Page
+![Custom Web Page](Screenshots/IMG_20260628_210337.jpg)
+
+
